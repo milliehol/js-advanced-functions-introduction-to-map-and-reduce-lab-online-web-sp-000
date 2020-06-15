@@ -1,6 +1,7 @@
 // Your code here
 
     mapToNegativize(sourceArray)
+    { sourceArray = -sourceArray}
     mapToNoChange(sourceArray)
     mapToDouble(sourceArray)
     mapToSquare(sourceArray)
